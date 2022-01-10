@@ -1,0 +1,16 @@
+G:\Programozás\Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+G:\Programozás\Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+G:\Programozás\Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+G:\Programozás\Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+G:\Programozás\Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+G:\Programozás\Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+G:\Programozás\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.AssemblyReference.cache
+G:\Programozás\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.Calculator.resources
+G:\Programozás\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.GenerateResource.cache
+G:\Programozás\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programozás\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+G:\Programozás\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+G:\Programozás\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+G:\Programozás\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+G:\Programozás\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+G:\Programozás\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
